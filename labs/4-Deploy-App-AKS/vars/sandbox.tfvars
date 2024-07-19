@@ -28,4 +28,4 @@ application_type  = "web"
 keyvault_name = "devopsjourney"
 access_policy_id  = "7da738c2-5c92-401c-87f1-eadbcf714367"
 
-environment = "production"
+environment = "sandbox"
